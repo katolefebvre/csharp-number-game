@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="CalculateFrequency method" Url="html/M_KatoLefebvre_Assignment1_NumberList_CalculateFrequency.htm" />
+  <HelpKINode Title="CalculateRoundScore method" Url="html/M_KatoLefebvre_Assignment1_NumberGame_CalculateRoundScore.htm" />
+  <HelpKINode Title="FillNumberList method" Url="html/M_KatoLefebvre_Assignment1_NumberList_FillNumberList.htm" />
+  <HelpKINode Title="GenerateResult method" Url="html/M_KatoLefebvre_Assignment1_NumberGame_GenerateResult.htm" />
+  <HelpKINode Title="IsGameOver method" Url="html/M_KatoLefebvre_Assignment1_NumberGame_IsGameOver.htm" />
+  <HelpKINode Title="KatoLefebvre_Assignment1 namespace" Url="html/N_KatoLefebvre_Assignment1.htm" />
+  <HelpKINode Title="KatoLefebvre_Assignment1.NumberGame class" Url="html/T_KatoLefebvre_Assignment1_NumberGame.htm" />
+  <HelpKINode Title="KatoLefebvre_Assignment1.NumberList class" Url="html/T_KatoLefebvre_Assignment1_NumberList.htm" />
+  <HelpKINode Title="NumberGame class">
+    <HelpKINode Title="NumberGame Class" Url="html/T_KatoLefebvre_Assignment1_NumberGame.htm" />
+    <HelpKINode Title="constructor" Url="html/M_KatoLefebvre_Assignment1_NumberGame__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_KatoLefebvre_Assignment1_NumberGame.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NumberGame.CalculateRoundScore method" Url="html/M_KatoLefebvre_Assignment1_NumberGame_CalculateRoundScore.htm" />
+  <HelpKINode Title="NumberGame.GenerateResult method" Url="html/M_KatoLefebvre_Assignment1_NumberGame_GenerateResult.htm" />
+  <HelpKINode Title="NumberGame.IsGameOver method" Url="html/M_KatoLefebvre_Assignment1_NumberGame_IsGameOver.htm" />
+  <HelpKINode Title="NumberGame.NumberGame constructor" Url="html/M_KatoLefebvre_Assignment1_NumberGame__ctor.htm" />
+  <HelpKINode Title="NumberGame.PlayRound method" Url="html/M_KatoLefebvre_Assignment1_NumberGame_PlayRound.htm" />
+  <HelpKINode Title="NumberGame.StartNewGame method" Url="html/M_KatoLefebvre_Assignment1_NumberGame_StartNewGame.htm" />
+  <HelpKINode Title="NumberList class">
+    <HelpKINode Title="NumberList Class" Url="html/T_KatoLefebvre_Assignment1_NumberList.htm" />
+    <HelpKINode Title="constructor" Url="html/M_KatoLefebvre_Assignment1_NumberList__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_KatoLefebvre_Assignment1_NumberList.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NumberList.CalculateFrequency method" Url="html/M_KatoLefebvre_Assignment1_NumberList_CalculateFrequency.htm" />
+  <HelpKINode Title="NumberList.FillNumberList method" Url="html/M_KatoLefebvre_Assignment1_NumberList_FillNumberList.htm" />
+  <HelpKINode Title="NumberList.NumberList constructor" Url="html/M_KatoLefebvre_Assignment1_NumberList__ctor.htm" />
+  <HelpKINode Title="PlayRound method" Url="html/M_KatoLefebvre_Assignment1_NumberGame_PlayRound.htm" />
+  <HelpKINode Title="StartNewGame method" Url="html/M_KatoLefebvre_Assignment1_NumberGame_StartNewGame.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/d69091c1-edae-43b6-bbc4-e46ac9a09ec7.htm" />
+    <HelpKINode Title="history" Url="html/a9fe5aef-fcfc-4188-987e-c31a4f62bc45.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/1db9753b-f041-4451-9819-c7160c67f09c.htm" />
+</HelpKI>

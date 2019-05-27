@@ -1,0 +1,26 @@
+C:\Users\klefe\source\repos\KatoLefebvre_Assignment1\bin\Debug\KatoLefebvre_Assignment1.exe.config
+C:\Users\klefe\source\repos\KatoLefebvre_Assignment1\bin\Debug\KatoLefebvre_Assignment1.exe
+C:\Users\klefe\source\repos\KatoLefebvre_Assignment1\bin\Debug\KatoLefebvre_Assignment1.pdb
+C:\Users\klefe\source\repos\KatoLefebvre_Assignment1\obj\Debug\KatoLefebvre_Assignment1.csprojAssemblyReference.cache
+C:\Users\klefe\source\repos\KatoLefebvre_Assignment1\obj\Debug\KatoLefebvre_Assignment1.GameForm.resources
+C:\Users\klefe\source\repos\KatoLefebvre_Assignment1\obj\Debug\KatoLefebvre_Assignment1.Properties.Resources.resources
+C:\Users\klefe\source\repos\KatoLefebvre_Assignment1\obj\Debug\KatoLefebvre_Assignment1.ResultForm.resources
+C:\Users\klefe\source\repos\KatoLefebvre_Assignment1\obj\Debug\KatoLefebvre_Assignment1.csproj.GenerateResource.cache
+C:\Users\klefe\source\repos\KatoLefebvre_Assignment1\obj\Debug\KatoLefebvre_Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\klefe\source\repos\KatoLefebvre_Assignment1\obj\Debug\KatoLefebvre_Assignment1.exe
+C:\Users\klefe\source\repos\KatoLefebvre_Assignment1\obj\Debug\KatoLefebvre_Assignment1.pdb
+C:\Users\klefe\Documents\School\Semester 4\Web Services\Assignments\Assignment 1\KatoLefebvre_Assignment1\obj\Debug\KatoLefebvre_Assignment1.csprojAssemblyReference.cache
+C:\Users\klefe\Documents\School\Semester 4\Web Services\Assignments\Assignment 1\KatoLefebvre_Assignment1\obj\Debug\KatoLefebvre_Assignment1.GameForm.resources
+C:\Users\klefe\Documents\School\Semester 4\Web Services\Assignments\Assignment 1\KatoLefebvre_Assignment1\obj\Debug\KatoLefebvre_Assignment1.Properties.Resources.resources
+C:\Users\klefe\Documents\School\Semester 4\Web Services\Assignments\Assignment 1\KatoLefebvre_Assignment1\obj\Debug\KatoLefebvre_Assignment1.ResultForm.resources
+C:\Users\klefe\Documents\School\Semester 4\Web Services\Assignments\Assignment 1\KatoLefebvre_Assignment1\obj\Debug\KatoLefebvre_Assignment1.csproj.GenerateResource.cache
+C:\Users\klefe\Documents\School\Semester 4\Web Services\Assignments\Assignment 1\KatoLefebvre_Assignment1\obj\Debug\KatoLefebvre_Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\klefe\Documents\School\Semester 4\Web Services\Assignments\Assignment 1\KatoLefebvre_Assignment1\obj\Debug\KatoLefebvre_Assignment1.exe
+C:\Users\klefe\Documents\School\Semester 4\Web Services\Assignments\Assignment 1\KatoLefebvre_Assignment1\obj\Debug\KatoLefebvre_Assignment1.pdb
+C:\Users\klefe\Documents\School\Semester 4\Web Services\Assignments\Assignment 1\KatoLefebvre_Assignment1\bin\Debug\KatoLefebvre_Assignment1.exe.config
+C:\Users\klefe\Documents\School\Semester 4\Web Services\Assignments\Assignment 1\KatoLefebvre_Assignment1\bin\Debug\KatoLefebvre_Assignment1.exe
+C:\Users\klefe\Documents\School\Semester 4\Web Services\Assignments\Assignment 1\KatoLefebvre_Assignment1\bin\Debug\KatoLefebvre_Assignment1.pdb
+C:\Users\klefe\Documents\School\Semester 4\Web Services\Assignments\Assignment 1\KatoLefebvre_Assignment1\bin\Debug\NumberGameLibrary.dll
+C:\Users\klefe\Documents\School\Semester 4\Web Services\Assignments\Assignment 1\KatoLefebvre_Assignment1\bin\Debug\NumberGameLibrary.pdb
+C:\Users\klefe\Documents\School\Semester 4\Web Services\Assignments\Assignment 1\KatoLefebvre_Assignment1\obj\Debug\KatoLefebvre_Assignment1.csproj.CopyComplete
+C:\Users\klefe\Documents\School\Semester 4\Web Services\Assignments\Assignment 1\KatoLefebvre_Assignment1\bin\Debug\KatoLefebvre_Assignment1.xml

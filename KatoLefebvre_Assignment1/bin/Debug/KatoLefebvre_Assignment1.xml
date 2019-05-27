@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>KatoLefebvre_Assignment1</name>
+    </assembly>
+    <members>
+        <member name="M:KatoLefebvre_Assignment1.GameForm.#ctor">
+            <summary>
+            Public constructor.
+            </summary>
+        </member>
+        <member name="M:KatoLefebvre_Assignment1.GameForm.StartNewGame_Click(System.Object,System.EventArgs)">
+            <summary>
+            Starts a new game and resets all fields within the form to default values.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:KatoLefebvre_Assignment1.GameForm.GenerateRandom_Click(System.Object,System.EventArgs)">
+            <summary>
+            Generates random numbers and processes the score for each round.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:KatoLefebvre_Assignment1.GameForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:KatoLefebvre_Assignment1.GameForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:KatoLefebvre_Assignment1.GameForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:KatoLefebvre_Assignment1.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="M:KatoLefebvre_Assignment1.ResultForm.#ctor">
+            <summary>
+            Result Form method.
+            Initializes and displays the final score and wehther the player won or lost.
+            </summary>
+        </member>
+        <member name="M:KatoLefebvre_Assignment1.ResultForm.StartNewGame_Click(System.Object,System.EventArgs)">
+            <summary>
+            Method for the beginning of a new game through the result form.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:KatoLefebvre_Assignment1.ResultForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:KatoLefebvre_Assignment1.ResultForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:KatoLefebvre_Assignment1.ResultForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:KatoLefebvre_Assignment1.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:KatoLefebvre_Assignment1.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:KatoLefebvre_Assignment1.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

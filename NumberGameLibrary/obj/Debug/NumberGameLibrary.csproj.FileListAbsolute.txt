@@ -1,0 +1,6 @@
+C:\Users\klefe\Documents\School\Semester 4\Web Services\Assignments\Assignment 1\NumberGameLibrary\bin\Debug\NumberGameLibrary.dll
+C:\Users\klefe\Documents\School\Semester 4\Web Services\Assignments\Assignment 1\NumberGameLibrary\bin\Debug\NumberGameLibrary.pdb
+C:\Users\klefe\Documents\School\Semester 4\Web Services\Assignments\Assignment 1\NumberGameLibrary\obj\Debug\NumberGameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\klefe\Documents\School\Semester 4\Web Services\Assignments\Assignment 1\NumberGameLibrary\obj\Debug\NumberGameLibrary.dll
+C:\Users\klefe\Documents\School\Semester 4\Web Services\Assignments\Assignment 1\NumberGameLibrary\obj\Debug\NumberGameLibrary.pdb
+C:\Users\klefe\Documents\School\Semester 4\Web Services\Assignments\Assignment 1\NumberGameLibrary\bin\Debug\NumberGameLibrary.xml

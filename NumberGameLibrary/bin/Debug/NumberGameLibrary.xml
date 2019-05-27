@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NumberGameLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:KatoLefebvre_Assignment1.NumberGame">
+            <summary>
+            Class that contains methods for a number game.
+            </summary>
+        </member>
+        <member name="M:KatoLefebvre_Assignment1.NumberGame.#ctor">
+            <summary>
+            Public constructor.
+            </summary>
+        </member>
+        <member name="M:KatoLefebvre_Assignment1.NumberGame.StartNewGame">
+            <summary>
+            Resets rounds and score to default values (0).
+            </summary>
+        </member>
+        <member name="M:KatoLefebvre_Assignment1.NumberGame.PlayRound">
+            <summary>
+            Method that determines if the game is not over yet and generates a new number list.
+            The score is calculated and stored.
+            </summary>
+            <returns>Integer array.</returns>
+        </member>
+        <member name="M:KatoLefebvre_Assignment1.NumberGame.GenerateResult">
+            <summary>
+            Method that returns the final score.
+            </summary>
+            <returns>Current score.</returns>
+        </member>
+        <member name="M:KatoLefebvre_Assignment1.NumberGame.IsGameOver">
+            <summary>
+            Method that determines if the player has played 5 rounds.
+            </summary>
+            <returns>Whether or not the game is over.</returns>
+        </member>
+        <member name="M:KatoLefebvre_Assignment1.NumberGame.CalculateRoundScore">
+            <summary>
+            Method that calculates the score for the round based on the frequency of numbers in the array.
+            </summary>
+            <returns>Score for the current round.</returns>
+        </member>
+        <member name="T:KatoLefebvre_Assignment1.NumberList">
+            <summary>
+            Class that creates the list of numbers used by NumberGame.
+            </summary>
+        </member>
+        <member name="M:KatoLefebvre_Assignment1.NumberList.FillNumberList">
+            <summary>
+            Method that fills the list of integers with randomly generated values.
+            Returns the list of integers.
+            </summary>
+            <returns>Integer array.</returns>
+        </member>
+        <member name="M:KatoLefebvre_Assignment1.NumberList.CalculateFrequency">
+            <summary>
+            Method that calculates the frequency of the numbers generated.
+            Returns the frequency to be calculated into the score.
+            </summary>
+            <returns>Frequency as an integer.</returns>
+        </member>
+    </members>
+</doc>
